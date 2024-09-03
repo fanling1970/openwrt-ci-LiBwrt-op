@@ -1,4 +1,4 @@
-name: IPQ60XX-ALL
+name: LiBwrt-op-ax6600
 
 on:
   workflow_dispatch:
